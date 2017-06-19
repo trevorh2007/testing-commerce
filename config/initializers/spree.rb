@@ -31,7 +31,7 @@ Spree.config do |config|
   config.logo = "/assets/images/123.jpg"
 
   # Template to use when rendering layout
-  config.layout = "layouts/application"
+  config.layout = "spree/layouts/spree_application"
 
 
   # Admin:
